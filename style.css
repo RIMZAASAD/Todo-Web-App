@@ -72,11 +72,7 @@ font-size: 16px;
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-input::placeholder{
-    color: rgb(252, 251, 245);
-    
 
-}
 button{
  
     border: 1px rgba(255, 255, 255, 0.4);
@@ -90,9 +86,9 @@ button{
   transition: 0.3s ease;
 }
 button:hover {
-  background-color: rgb(255, 180, 60); /* lighter orange */
-  transform: scale(1); /* 👈 thoda zoom-in effect */
-  box-shadow: 0 0 15px rgba(255, 180, 60, 0.6); /* 👈 glow */
+  background-color: rgb(255, 180, 60);
+  transform: scale(1); 
+  box-shadow: 0 0 15px rgba(255, 180, 60, 0.6); 
 }
 ul li{
     list-style: none;
