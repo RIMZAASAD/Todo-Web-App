@@ -22,15 +22,6 @@ You can add, delete, and mark your daily tasks — all saved in your browser’s
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone # 📝 To-Do Web App
-
-A clean and simple **To-Do List** web application built using **HTML, CSS, and JavaScript**.  
-You can add, delete, and mark your daily tasks — all saved in your browser’s **LocalStorage**.
-
----
 
 ## ✨ Features  
 ✅ Add new tasks  
