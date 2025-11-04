@@ -48,8 +48,6 @@ You can add, delete, and mark your daily tasks — all saved in your browser’s
 ## Video 
  https://github.com/user-attachments/assets/348a9d40-f0f7-4f30-a131-ff5fb0503ddd
  
- ##Image
- <img width="1366" height="607" alt="img" src="https://github.com/user-attachments/assets/e0e3aa31-2841-458c-aad2-436583d02ab3" />
 
 
 
